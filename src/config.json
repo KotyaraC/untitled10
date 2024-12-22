@@ -1,0 +1,22 @@
+{
+  "languages": {
+    "en": {
+      "greeting": "Hello, User!",
+      "languageButton": "Switch Language"
+    },
+    "ua": {
+      "greeting": "Привіт, Користувач!",
+      "languageButton": "Змінити мову"
+    }
+  },
+  "themes": {
+    "light": {
+      "background": "#ffffff",
+      "color": "#000000"
+    },
+    "dark": {
+      "background": "#121212",
+      "color": "#ffffff"
+    }
+  }
+}
